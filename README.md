@@ -2,6 +2,8 @@
 
 I'm a **23-year-old computer science graduate** from the University of Macedonia, currently pursuing my **Master's degree in Technologies of Interactive Systems** at Aristotle University of Thessaloniki (AUTH).
 
+[![aravellalousta's GitHub | Stats](https://stats.quira.sh/aravellalousta/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=aravellalousta)
+
 ---
 
 ## 💡 What I Do:
@@ -16,6 +18,8 @@ I'm a **23-year-old computer science graduate** from the University of Macedonia
 - **Libraries/Frameworks**: Matplotlib, Seaborn, Plotly, Pandas
 - **Design Tools**: Figma, Adobe XD
 - **Other Skills**: Data Visualization, UX Design, Data Analysis
+
+[![aravellalousta's GitHub | Languages Over Time](https://stats.quira.sh/aravellalousta/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=aravellalousta)
 
 ---
 
